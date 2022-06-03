@@ -1,3 +1,5 @@
+#Copyright 2022, Mythxcal, All rights reserved.
+
 import configparser
 from re import L
 import sys
